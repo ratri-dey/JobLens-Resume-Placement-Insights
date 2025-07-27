@@ -35,6 +35,6 @@ An interactive Excel-based analytics dashboard to explore student resume quality
 
 ## ✅ How to Use:
 1. Open the Jupyter notebook and run the cells to process data
-2. Open `DASHBOARD` to explore insights visually
+2. Open `DASHBOARD.xlsx` to explore insights visually
 # JobLens-Resume-Placement-Insights
 Analyzed student placement data by integrating academic scores, resume content, and recruiter feedback using Python and Excel. Created dashboards with pivot tables and charts to show trends in placement status, resume quality, department-wise outcomes, and average salary by job role.
